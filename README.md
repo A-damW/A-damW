@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I am so excited to live in what I think is one of the most interesting times in history
+!
 
 <!--
 **A-damW/A-damW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
