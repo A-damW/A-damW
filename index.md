@@ -14,6 +14,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+[//]: # "https://murfin.netlify.com/"
+
+[//]: # "https://themurfin.netlify.app/"
+
+[//]: # "https://gualmanar.netlify.app/"
+
+[//]: # "https://gualmanar.com/"
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
