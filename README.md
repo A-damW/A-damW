@@ -3,6 +3,14 @@
 <!--
 **A-damW/A-damW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[//]: # "https://murfin.netlify.com/"
+
+[//]: # "https://themurfin.netlify.app/"
+
+[//]: # "https://gualmanar.netlify.app/"
+
+[//]: # "https://gualmanar.com/"
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
